@@ -16,4 +16,4 @@ if (pode_votar >= 18) {
 else {
     alert("Você ainda não pode votar, volte aqui depois de algum tempo");
 }
-console.clear
+console.clear();

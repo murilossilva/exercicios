@@ -8,3 +8,4 @@ if(ano % 4 == 0){
 else{
     alert("Esse ano não é bissexto. Tente novamente!");
 }
+console.clear();

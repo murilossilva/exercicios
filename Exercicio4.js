@@ -12,4 +12,4 @@ if (nota < 6.0 && nota >= 5.0) {
 if (nota < 5.0) {
     alert("O aluno está reprovado");
 }
-console.clear
+console.clear();

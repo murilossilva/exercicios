@@ -13,3 +13,4 @@ var min = number.reduce(function(a, b){
 });
 alert("O valor máximo da sua lista é " + max);
 alert("O valor mínimo da sua lista é " + min);
+console.clear();

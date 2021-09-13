@@ -23,3 +23,4 @@ porcentagem_nulos = (nulos / total) * 100;
 alert("Foram computados ao todo " + total + "votos");
 alert("Candidato 1: " + porcentagem_1 + "%\nCandidato 2: " + porcentagem_2 + "%\nCandidato 3: " + porcentagem_3 + 
 "%\nBrancos: " + porcentagem_brancos + "%\nNulos: " + porcentagem_nulos + "%");
+console.clear();
